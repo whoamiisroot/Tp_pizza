@@ -32,4 +32,17 @@ The project features a list view of various pizzas and their corresponding ingre
 
 - Ensure that you have the necessary Android development environment set up to run the project.
 
+## Screenshots
+
+Main Page :
+
+<img width="268" alt="Pizza_accueil" src="https://github.com/whoamiisroot/Tp_pizza/assets/114259228/c4e9e950-5f08-4e76-b399-b04fce47b4d7">
+
+Ingredients Page :
+
+<img width="257" alt="pizza_ing" src="https://github.com/whoamiisroot/Tp_pizza/assets/114259228/757e3c51-14d3-4428-b7e3-42d8d14770bc">
+
+
+
+
 Enjoy exploring the pizza list view lab project!
